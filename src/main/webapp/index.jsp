@@ -2,10 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>Compound Interest Calculator</title>
 </head>
 <body>
-<h1><%= "Hello World!" %>
-</h1>
 </body>
 </html>
