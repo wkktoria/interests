@@ -1,5 +1,8 @@
-<h1 align="center">interests</h1>
+# Interests
 
-<h3 align="center">A computed interest calculator.</h3>
+A computed interest calculator.
 
 ![demo](demo.gif)
+
+> [!WARNING]
+> Application was only tested on Tomcat server.
