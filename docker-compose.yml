@@ -1,5 +1,5 @@
 services:
-  tomcat:
+  app:
     build:
       context: .
       dockerfile: Dockerfile

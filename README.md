@@ -8,14 +8,10 @@ A computed interest calculator.
 
 ## Run Application
 
-1. Build a WAR file.
+> [!WARNING]
+> Running the application requires to have Docker installed.
 
-```shell
-./mvnw clean
-./mvnw package
-```
-
-2. Deploy.
+Run the following command:
 
 ```shell
 docker-compose up
