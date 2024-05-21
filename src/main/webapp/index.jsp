@@ -8,7 +8,8 @@
 <body class="bg-stone-100">
 <div class="flex flex-col items-center justify-center h-screen mx-auto">
     <h1 class="text-xl text-slate-800 font-bold mb-8">Compound Interest Calculator</h1>
-    <form class="bg-white border shadow-md rounded px-8 pt-6 pb-8 mb-4" action="${pageContext.request.contextPath}/"
+    <form class="bg-white border shadow-md rounded px-8 pt-6 pb-8 mb-4"
+          action="${pageContext.request.contextPath}/InterestCalculatorServlet"
           method="post">
         <div class="flex flex-col items-center justify-center">
             <p class="text-red-500 font-semibold text-sm rounded my-4">${errorMessage}</p>
