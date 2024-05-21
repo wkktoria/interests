@@ -1,5 +1,6 @@
-package io.github.wkktoria.interests;
+package io.github.wkktoria.interests.servlets;
 
+import io.github.wkktoria.interests.utils.Util;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;

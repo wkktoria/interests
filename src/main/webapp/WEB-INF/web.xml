@@ -6,7 +6,7 @@
 
     <servlet>
         <servlet-name>InterestCalculatorServlet</servlet-name>
-        <servlet-class>io.github.wkktoria.interests.InterestCalculatorServlet</servlet-class>
+        <servlet-class>io.github.wkktoria.interests.servlets.InterestCalculatorServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
